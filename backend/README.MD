@@ -18,7 +18,7 @@ To avoid erros of the compilation in your project, executing this command in you
 yarn install
 ```
 
-### `yarn dev`
+### `yarn start`
 
 To realize tests from this API, use the url: [https://localhost:6060](https://localhost:6060).
 
@@ -26,7 +26,7 @@ We recommend [Insomnia](https://insomnia.rest/download) for testing.
 
 To start the server, run the command in the terminal:
 ```
-yarn dev
+yarn start
 ```
 
 ## Learn more
