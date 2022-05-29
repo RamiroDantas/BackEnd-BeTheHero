@@ -1,10 +1,7 @@
 # Api Be The Hero
 
-This API Rest was made to register and login of users, and was create using [Node.Js](https://nodejs.org/en/) and [Yarn](https://yarnpkg.com/)
+This API Rest was made to application BeTheHero, and was create using [Node.Js](https://nodejs.org/en/) and [Yarn](https://yarnpkg.com/)
 
-### Installations
-
-Install in your computer the package manager [Yarn](https://yarnpkg.com/) so that you can run this API.
 
 ## Available scripts
 
@@ -18,15 +15,15 @@ To avoid erros of the compilation in your project, executing this command in you
 yarn install
 ```
 
-### `yarn dev`
+### `yarn start`
 
-To realize tests from this API, use the url: [https://localhost:6060](https://localhost:6060).
+To realize tests from this API, use the url: [https://localhost:3333](https://localhost:3333).
 
 We recommend [Insomnia](https://insomnia.rest/download) for testing.
 
 To start the server, run the command in the terminal:
 ```
-yarn dev
+yarn start
 ```
 
 ## Learn more
