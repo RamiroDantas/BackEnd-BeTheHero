@@ -25,19 +25,19 @@ Install in your computer the package manager [Yarn](https://yarnpkg.com/) or use
 ## Screens Web
 
 <p align="center">
-    <img alt="" title="" src="imgs/Tela1.png">
-    <img alt="" title="" src="imgs/Tela2.png">
-    <img alt="" title="" src="imgs/Tela3.png">
-    <img alt="" title="" src="imgs/Tela4.png">
+    <img alt="" title="" src="imgs/Tela1.jpg">
+    <img alt="" title="" src="imgs/Tela2.jpg">
+    <img alt="" title="" src="imgs/Tela 3.jpg">
+    <img alt="" title="" src="imgs/Tela 4.jpg">
 </p>
 
 ## Screens Mobile
 
 <p align="center">
     <img alt="" title="" src="imgs/splash.png">
-    <img alt="" title="" src="imgs/Tela5.png">
-    <img alt="" title="" src="imgs/Tela6.png">
-    <img alt="" title="" src="imgs/Tela7.png">
+    <img alt="" title="" src="imgs/Tela 5.jpg">
+    <img alt="" title="" src="imgs/Tela 6.jpg">
+    <img alt="" title="" src="imgs/Tela 7.jpg">
 </p>
 
 
