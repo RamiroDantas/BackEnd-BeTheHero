@@ -40,4 +40,4 @@ Install in your computer the package manager [Yarn](https://yarnpkg.com/) or use
     <img alt="" title="" src="imgs/Tela 7.jpg">
 </p>
 
-
+## 
